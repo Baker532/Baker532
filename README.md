@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Matt
 
-<!--
-**Baker532/Baker532** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science and engineering student focused on improving my skills in C++, Python, and Java.  
+Currently building solo projects to sharpen my coding and grow my GitHub portfolio.
 
-Here are some ideas to get you started:
+### 🧠 Learning & Practicing
+- C/C++
+- Git and GitHub
+- Building personal tools and CLI apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Projects
+- 🔐 [Mini Vault (C++)](https://github.com/baker532/mini-vault-cpp) – Simple command-line password manager with encryption
+
+### 📫 Reach me
+Email: kmbaker1632@gmail.com  
+LinkedIn: ---
